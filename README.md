@@ -62,7 +62,7 @@ multiplication table as shown below.
 9 | 18 27 36 45 54 63 72 81
 ```
 ---
-## Optional Exersice :
+## Optional Exercise :
 6- Write a method that replaces any number of multiple
 spaces connected together in a String reference s with single
 spaces.
