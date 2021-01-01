@@ -1,8 +1,15 @@
-# hw-week4-day1-Java
+# homework-week4-day1-Java
 ## Instructions
-1. Fork and clone this repository.
-2. cd into the new directory
+1. Fork this repository.
+2. In ```Eclipse``` : **File -> Import -> Git -> Projects From Git -> URI** as below : 
+![alternative](images/1.PNG)
+![alternative](images/2.PNG)
+![alternative](images/3.PNG)
+
+3. Open the project in ```Eclipse```
+
 3. Create a file called main.java and add all answers to it. 
+
 ---
 1- Change this source code, so that it gets
 compiled successfully?
@@ -11,7 +18,7 @@ compiled successfully?
 
 class Main {
  public static void main(String [] args)
-    System.out.println("What’s wrong with me?)
+    System.out.println("Whatâ€™s wrong with me?)
    }
   }
 
@@ -67,6 +74,17 @@ multiplication table as shown below.
 spaces connected together in a String reference s with single
 spaces.
 For example, if s contains:
-<pre>“This does    not contain  multiple    spaces.”,</pre>
+<pre>â€œThis does    not contain  multiple    spaces.â€�,</pre>
 it should be changed to:
-<pre>“This does not contain multiple spaces.”</pre>
+<pre>â€œThis does not contain multiple spaces.â€�</pre>
+
+---
+## How to commit :
+In ```Eclipse``` : **Right click on your project -> Team -> Commit -> Follow Instructions** as below : 
+![alternative](images/4.PNG)
+
+### Move changes to staged then commit and push :
+
+![alternative](images/5.PNG)
+
+### Create a Pull Request.
