@@ -18,7 +18,7 @@ compiled successfully?
 
 class Main {
  public static void main(String [] args)
-    System.out.println("Whatâ€™s wrong with me?)
+    System.out.println("What is wrong with me?)
    }
   }
 
@@ -74,9 +74,9 @@ multiplication table as shown below.
 spaces connected together in a String reference s with single
 spaces.
 For example, if s contains:
-<pre>â€œThis does    not contain  multiple    spaces.â€�,</pre>
+<pre>"This does    not contain  multiple    spaces"</pre>
 it should be changed to:
-<pre>â€œThis does not contain multiple spaces.â€�</pre>
+<pre>"This does not contain multiple spaces"</pre>
 
 ---
 ## How to commit :
