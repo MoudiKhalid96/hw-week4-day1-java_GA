@@ -8,7 +8,7 @@
 
 3. Open the project in ```Eclipse```
 
-3. Create a file called main.java and add all answers to it. 
+3. Create a file called Main.java and add all answers to it. 
 
 ---
 1- Change this source code, so that it gets
